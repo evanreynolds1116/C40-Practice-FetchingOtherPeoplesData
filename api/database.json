@@ -1,0 +1,25 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Chorizo Breakfast Burrito",
+      "category": "burrito",
+      "ethnicity": "mexican",
+      "barcode": "3181450100599"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "category": "pizza",
+      "ethnicity": "italian",
+      "barcode": "20543068"
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "8076800195057"
+    }
+  ]
+}

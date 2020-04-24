@@ -1,0 +1,15 @@
+.foodList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+}
+
+div {
+  border: 1px solid black;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 5px 5px 5px 5px;
+  flex-basis: 0;
+  flex-grow: 1;
+}
